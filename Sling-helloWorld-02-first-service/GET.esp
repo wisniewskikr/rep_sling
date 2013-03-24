@@ -1,0 +1,9 @@
+ <% var service = sling.getService(Packages.pl.kwi.services.SampleService); %>
+
+<html>
+  <head>
+  </head>	
+  <body>
+    <%= currentNode.message %> <b><%= service.getName() %></b> 
+  </body>
+</html>

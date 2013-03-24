@@ -1,0 +1,5 @@
+  {
+       "jcr:primaryType" : "nt:unstructured",
+       "sling:resourceType" : "helloWorld",
+       "message" : "Hello World"
+  }
